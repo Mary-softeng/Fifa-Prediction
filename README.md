@@ -1,0 +1,2 @@
+# MaryNjuguna-Moringa_Data_Science_Core_Module2_W6_Independent_Project_2022_04
+Fifa prediction using logistic regression
